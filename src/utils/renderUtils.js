@@ -1,19 +1,10 @@
 import path from 'path';
-import os from 'os';
-import execa from 'execa';
 import minimatch from 'minimatch';
 
 /* eslint-disable no-unused-expressions */
 /**
- * Open the doc app
- */
-function openDocApp(file) {
-  os.platform() === 'darwin' ? execa.shell(`open -a pages ${path.resolve(file)}`) : null;
-}
-
-/**
  * Document element
- * @param {Object} element 
+ * @param {Object} element
  */
 function validateElement(element) {
   if (!element) {
@@ -58,4 +49,4 @@ function Events(filePath, resolve, reject) {
   };
 }
 
-export { Events, openDocApp, validateElement, validatePath };
+export { Events, validateElement, validatePath };

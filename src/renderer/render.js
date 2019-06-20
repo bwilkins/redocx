@@ -3,7 +3,7 @@ import streams from 'memory-streams';
 import { createElement } from '../utils/createElement';
 import { WordRenderer } from './renderer';
 import parse from './parse';
-import { validateElement, validatePath, Events, openDocApp } from '../utils/renderUtils';
+import { validateElement, validatePath, Events } from '../utils/renderUtils';
 
 
 async function renderToFile(element, filePath) {
@@ -22,8 +22,6 @@ async function renderToFile(element, filePath) {
 
   await new Promise((resolve, reject) => {
     output.doc.generate(stream, Events(filePath, resolve, reject));
-
-    openDocApp(filePath);
   });
 }
 
