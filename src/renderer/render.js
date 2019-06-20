@@ -1,31 +1,8 @@
-import fs from 'fs';
 import streams from 'memory-streams';
 import { createElement } from '../utils/createElement';
 import { WordRenderer } from './renderer';
 import parse from './parse';
-import { validateElement, validatePath, Events, openDocApp } from '../utils/renderUtils';
-
-
-async function renderToFile(element, filePath) {
-  const container = createElement('ROOT');
-
-  validateElement(element);
-
-  validatePath(filePath);
-
-  const node = WordRenderer.createContainer(container);
-
-  WordRenderer.updateContainer(element, node, null);
-
-  const output = await parse(container).toBuffer();
-  const stream = fs.createWriteStream(filePath);
-
-  await new Promise((resolve, reject) => {
-    output.doc.generate(stream, Events(filePath, resolve, reject));
-
-    openDocApp(filePath);
-  });
-}
+import { validateElement } from '../utils/renderUtils';
 
 async function renderToMemory(element) {
   const container = createElement('ROOT');
@@ -55,12 +32,8 @@ async function renderToMemory(element) {
 /**
  * This function renders the component
  * @param {Object} element
- * @param {string} filePath
  */
-async function render(element, filePath) {
-  if (typeof filePath !== 'undefined') {
-    return renderToFile(element, filePath);
-  }
+async function render(element) {
   return renderToMemory(element);
 }
 
