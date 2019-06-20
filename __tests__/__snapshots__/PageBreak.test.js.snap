@@ -30,7 +30,6 @@ WordDocument {
         ],
       },
     ],
-    "domain": null,
     "generate": [Function],
     "getFooter": [Function],
     "getHeader": [Function],

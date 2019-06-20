@@ -380,7 +380,9 @@ WordDocument {
             },
             Object {
               "callback": [Function],
-              "data": null,
+              "data": Object {
+                "styleXML": undefined,
+              },
               "is_perment": true,
               "name": "word\\\\styles.xml",
               "removed_after_used": false,
@@ -650,7 +652,6 @@ WordDocument {
         "srcFilesList": Array [],
       },
     ],
-    "domain": null,
     "generate": [Function],
     "getFooter": [Function],
     "getHeader": [Function],
@@ -815,7 +816,6 @@ WordDocument {
                 "data": Array [
                   [Circular],
                 ],
-                "domain": null,
                 "generate": [Function],
                 "getFooter": [Function],
                 "getHeader": [Function],
@@ -1130,7 +1130,9 @@ WordDocument {
           },
           Object {
             "callback": [Function],
-            "data": null,
+            "data": Object {
+              "styleXML": undefined,
+            },
             "is_perment": true,
             "name": "word\\\\styles.xml",
             "removed_after_used": false,
@@ -1349,7 +1351,6 @@ WordDocument {
         "data": Array [
           [Circular],
         ],
-        "domain": null,
         "generate": [Function],
         "getFooter": [Function],
         "getHeader": [Function],
@@ -1865,7 +1866,9 @@ WordDocument {
             },
             Object {
               "callback": [Function],
-              "data": null,
+              "data": Object {
+                "styleXML": undefined,
+              },
               "is_perment": true,
               "name": "word\\\\styles.xml",
               "removed_after_used": false,
@@ -2135,7 +2138,6 @@ WordDocument {
         "srcFilesList": Array [],
       },
     ],
-    "domain": null,
     "generate": [Function],
     "getFooter": [Function],
     "getHeader": [Function],
@@ -2300,7 +2302,6 @@ WordDocument {
                 "data": Array [
                   [Circular],
                 ],
-                "domain": null,
                 "generate": [Function],
                 "getFooter": [Function],
                 "getHeader": [Function],
@@ -2615,7 +2616,9 @@ WordDocument {
           },
           Object {
             "callback": [Function],
-            "data": null,
+            "data": Object {
+              "styleXML": undefined,
+            },
             "is_perment": true,
             "name": "word\\\\styles.xml",
             "removed_after_used": false,
@@ -2834,7 +2837,6 @@ WordDocument {
         "data": Array [
           [Circular],
         ],
-        "domain": null,
         "generate": [Function],
         "getFooter": [Function],
         "getHeader": [Function],
@@ -3351,7 +3353,9 @@ WordDocument {
             },
             Object {
               "callback": [Function],
-              "data": null,
+              "data": Object {
+                "styleXML": undefined,
+              },
               "is_perment": true,
               "name": "word\\\\styles.xml",
               "removed_after_used": false,
@@ -3621,7 +3625,6 @@ WordDocument {
         "srcFilesList": Array [],
       },
     ],
-    "domain": null,
     "generate": [Function],
     "getFooter": [Function],
     "getHeader": [Function],
@@ -3786,7 +3789,6 @@ WordDocument {
                 "data": Array [
                   [Circular],
                 ],
-                "domain": null,
                 "generate": [Function],
                 "getFooter": [Function],
                 "getHeader": [Function],
@@ -4101,7 +4103,9 @@ WordDocument {
           },
           Object {
             "callback": [Function],
-            "data": null,
+            "data": Object {
+              "styleXML": undefined,
+            },
             "is_perment": true,
             "name": "word\\\\styles.xml",
             "removed_after_used": false,
@@ -4320,7 +4324,6 @@ WordDocument {
         "data": Array [
           [Circular],
         ],
-        "domain": null,
         "generate": [Function],
         "getFooter": [Function],
         "getHeader": [Function],
@@ -4839,7 +4842,9 @@ WordDocument {
             },
             Object {
               "callback": [Function],
-              "data": null,
+              "data": Object {
+                "styleXML": undefined,
+              },
               "is_perment": true,
               "name": "word\\\\styles.xml",
               "removed_after_used": false,
@@ -5466,7 +5471,9 @@ WordDocument {
             },
             Object {
               "callback": [Function],
-              "data": null,
+              "data": Object {
+                "styleXML": undefined,
+              },
               "is_perment": true,
               "name": "word\\\\styles.xml",
               "removed_after_used": false,
@@ -5738,7 +5745,6 @@ WordDocument {
         "srcFilesList": Array [],
       },
     ],
-    "domain": null,
     "generate": [Function],
     "getFooter": [Function],
     "getHeader": [Function],
@@ -6054,7 +6060,6 @@ WordDocument {
                   },
                   [Circular],
                 ],
-                "domain": null,
                 "generate": [Function],
                 "getFooter": [Function],
                 "getHeader": [Function],
@@ -6369,7 +6374,9 @@ WordDocument {
           },
           Object {
             "callback": [Function],
-            "data": null,
+            "data": Object {
+              "styleXML": undefined,
+            },
             "is_perment": true,
             "name": "word\\\\styles.xml",
             "removed_after_used": false,
@@ -6476,7 +6483,6 @@ WordDocument {
                     "createP": [Function],
                     "createTable": [Function],
                     "data": [Circular],
-                    "domain": null,
                     "generate": [Function],
                     "getFooter": [Function],
                     "getHeader": [Function],
@@ -7164,7 +7170,9 @@ WordDocument {
                 },
                 Object {
                   "callback": [Function],
-                  "data": null,
+                  "data": Object {
+                    "styleXML": undefined,
+                  },
                   "is_perment": true,
                   "name": "word\\\\styles.xml",
                   "removed_after_used": false,
@@ -7435,7 +7443,6 @@ WordDocument {
           },
           [Circular],
         ],
-        "domain": null,
         "generate": [Function],
         "getFooter": [Function],
         "getHeader": [Function],
@@ -7829,7 +7836,6 @@ WordDocument {
                         "srcFilesList": Array [],
                       },
                     ],
-                    "domain": null,
                     "generate": [Function],
                     "getFooter": [Function],
                     "getHeader": [Function],
@@ -8144,7 +8150,9 @@ WordDocument {
               },
               Object {
                 "callback": [Function],
-                "data": null,
+                "data": Object {
+                  "styleXML": undefined,
+                },
                 "is_perment": true,
                 "name": "word\\\\styles.xml",
                 "removed_after_used": false,
@@ -8252,7 +8260,6 @@ WordDocument {
                         "createP": [Function],
                         "createTable": [Function],
                         "data": [Circular],
-                        "domain": null,
                         "generate": [Function],
                         "getFooter": [Function],
                         "getHeader": [Function],
@@ -8942,7 +8949,9 @@ WordDocument {
                     },
                     Object {
                       "callback": [Function],
-                      "data": null,
+                      "data": Object {
+                        "styleXML": undefined,
+                      },
                       "is_perment": true,
                       "name": "word\\\\styles.xml",
                       "removed_after_used": false,
@@ -9214,7 +9223,6 @@ WordDocument {
                 "srcFilesList": Array [],
               },
             ],
-            "domain": null,
             "generate": [Function],
             "getFooter": [Function],
             "getHeader": [Function],
@@ -9739,7 +9747,9 @@ WordDocument {
             },
             Object {
               "callback": [Function],
-              "data": null,
+              "data": Object {
+                "styleXML": undefined,
+              },
               "is_perment": true,
               "name": "word\\\\styles.xml",
               "removed_after_used": false,
@@ -10009,7 +10019,6 @@ WordDocument {
         "srcFilesList": Array [],
       },
     ],
-    "domain": null,
     "generate": [Function],
     "getFooter": [Function],
     "getHeader": [Function],
@@ -10174,7 +10183,6 @@ WordDocument {
                 "data": Array [
                   [Circular],
                 ],
-                "domain": null,
                 "generate": [Function],
                 "getFooter": [Function],
                 "getHeader": [Function],
@@ -10489,7 +10497,9 @@ WordDocument {
           },
           Object {
             "callback": [Function],
-            "data": null,
+            "data": Object {
+              "styleXML": undefined,
+            },
             "is_perment": true,
             "name": "word\\\\styles.xml",
             "removed_after_used": false,
@@ -10708,7 +10718,6 @@ WordDocument {
         "data": Array [
           [Circular],
         ],
-        "domain": null,
         "generate": [Function],
         "getFooter": [Function],
         "getHeader": [Function],
@@ -11224,7 +11233,9 @@ WordDocument {
             },
             Object {
               "callback": [Function],
-              "data": null,
+              "data": Object {
+                "styleXML": undefined,
+              },
               "is_perment": true,
               "name": "word\\\\styles.xml",
               "removed_after_used": false,
@@ -11494,7 +11505,6 @@ WordDocument {
         "srcFilesList": Array [],
       },
     ],
-    "domain": null,
     "generate": [Function],
     "getFooter": [Function],
     "getHeader": [Function],
@@ -11659,7 +11669,6 @@ WordDocument {
                 "data": Array [
                   [Circular],
                 ],
-                "domain": null,
                 "generate": [Function],
                 "getFooter": [Function],
                 "getHeader": [Function],
@@ -11974,7 +11983,9 @@ WordDocument {
           },
           Object {
             "callback": [Function],
-            "data": null,
+            "data": Object {
+              "styleXML": undefined,
+            },
             "is_perment": true,
             "name": "word\\\\styles.xml",
             "removed_after_used": false,
@@ -12193,7 +12204,6 @@ WordDocument {
         "data": Array [
           [Circular],
         ],
-        "domain": null,
         "generate": [Function],
         "getFooter": [Function],
         "getHeader": [Function],
@@ -12719,7 +12729,9 @@ WordDocument {
             },
             Object {
               "callback": [Function],
-              "data": null,
+              "data": Object {
+                "styleXML": undefined,
+              },
               "is_perment": true,
               "name": "word\\\\styles.xml",
               "removed_after_used": false,
@@ -12989,7 +13001,6 @@ WordDocument {
         "srcFilesList": Array [],
       },
     ],
-    "domain": null,
     "generate": [Function],
     "getFooter": [Function],
     "getHeader": [Function],
@@ -13154,7 +13165,6 @@ WordDocument {
                 "data": Array [
                   [Circular],
                 ],
-                "domain": null,
                 "generate": [Function],
                 "getFooter": [Function],
                 "getHeader": [Function],
@@ -13469,7 +13479,9 @@ WordDocument {
           },
           Object {
             "callback": [Function],
-            "data": null,
+            "data": Object {
+              "styleXML": undefined,
+            },
             "is_perment": true,
             "name": "word\\\\styles.xml",
             "removed_after_used": false,
@@ -13688,7 +13700,6 @@ WordDocument {
         "data": Array [
           [Circular],
         ],
-        "domain": null,
         "generate": [Function],
         "getFooter": [Function],
         "getHeader": [Function],
@@ -14218,7 +14229,9 @@ WordDocument {
             },
             Object {
               "callback": [Function],
-              "data": null,
+              "data": Object {
+                "styleXML": undefined,
+              },
               "is_perment": true,
               "name": "word\\\\styles.xml",
               "removed_after_used": false,
@@ -14488,7 +14501,6 @@ WordDocument {
         "srcFilesList": Array [],
       },
     ],
-    "domain": null,
     "generate": [Function],
     "getFooter": [Function],
     "getHeader": [Function],
@@ -14653,7 +14665,6 @@ WordDocument {
                 "data": Array [
                   [Circular],
                 ],
-                "domain": null,
                 "generate": [Function],
                 "getFooter": [Function],
                 "getHeader": [Function],
@@ -14968,7 +14979,9 @@ WordDocument {
           },
           Object {
             "callback": [Function],
-            "data": null,
+            "data": Object {
+              "styleXML": undefined,
+            },
             "is_perment": true,
             "name": "word\\\\styles.xml",
             "removed_after_used": false,
@@ -15187,7 +15200,6 @@ WordDocument {
         "data": Array [
           [Circular],
         ],
-        "domain": null,
         "generate": [Function],
         "getFooter": [Function],
         "getHeader": [Function],
@@ -15713,7 +15725,9 @@ WordDocument {
             },
             Object {
               "callback": [Function],
-              "data": null,
+              "data": Object {
+                "styleXML": undefined,
+              },
               "is_perment": true,
               "name": "word\\\\styles.xml",
               "removed_after_used": false,
@@ -15983,7 +15997,6 @@ WordDocument {
         "srcFilesList": Array [],
       },
     ],
-    "domain": null,
     "generate": [Function],
     "getFooter": [Function],
     "getHeader": [Function],
@@ -16148,7 +16161,6 @@ WordDocument {
                 "data": Array [
                   [Circular],
                 ],
-                "domain": null,
                 "generate": [Function],
                 "getFooter": [Function],
                 "getHeader": [Function],
@@ -16463,7 +16475,9 @@ WordDocument {
           },
           Object {
             "callback": [Function],
-            "data": null,
+            "data": Object {
+              "styleXML": undefined,
+            },
             "is_perment": true,
             "name": "word\\\\styles.xml",
             "removed_after_used": false,
@@ -16682,7 +16696,6 @@ WordDocument {
         "data": Array [
           [Circular],
         ],
-        "domain": null,
         "generate": [Function],
         "getFooter": [Function],
         "getHeader": [Function],

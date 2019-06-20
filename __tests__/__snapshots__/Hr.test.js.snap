@@ -22,7 +22,6 @@ WordDocument {
     "createP": [Function],
     "createTable": [Function],
     "data": Array [],
-    "domain": null,
     "generate": [Function],
     "getFooter": [Function],
     "getHeader": [Function],
